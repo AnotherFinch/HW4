@@ -21,7 +21,7 @@ import java.util.List;
         @Override
         public void showTheGift() {
             System.out.println("В подарке лежит:");
-            for (Sweetness c : sweetness){
+            for (Sweetness c : sweetness) {
                 System.out.println(c);
             }
         }
