@@ -21,16 +21,8 @@ import java.util.List;
         @Override
         public void showTheGift() {
             System.out.println("В подарке лежит:");
-            for (Sweetness c : sweetness) {sd
-                    sd
-
-                    sd
-                            s
-                            sds
-                                    d
-                                    s
-                System.out.println(czxc
-                zx);
+            for (Sweetness c : sweetness){
+                System.out.println(c);
             }
         }
 
@@ -50,7 +42,3 @@ import java.util.List;
             sweetness.add(sweet);
         }
 }
-zcx
-
-
-czxc
