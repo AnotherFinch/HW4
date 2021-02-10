@@ -12,15 +12,6 @@ public class Main {
         gift.showTheGift();
     }
 
-
-
-
-
-
-
-
-
-
     public static void numbers(){
         int [] array = new int[20];
         int maxMin = -10;
