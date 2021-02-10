@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-       //numbers();
+       numbers();
 
         Gift gift = new Gift();
         gift.addSweetness(new Cookie("Orio", 20.50, 20, "chocolate"));
